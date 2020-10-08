@@ -2,13 +2,28 @@
   font-family: openSans;
   src: url(OpenSans-Regular.ttf);
 }
+
 body {
 	background-color: black;
 }
+
 p {
 	font-family: openSans;
+	text-align: center;
 	color: white;
 }
+
+#canvasContainer {
+	position:absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	margin: auto;
+	height: 75%;
+	width: 75%;
+}
+
 #frog {
 	position: fixed;
 	top: 0%;
@@ -22,7 +37,6 @@ p {
 	0% {
 		transform: rotate(0deg);
 	}
-
 	100% {
 		transform: rotate(360deg);
 	}
@@ -32,7 +46,6 @@ p {
 		top: 0vh;
 		left: 0vw;
 	}
-	
 	100% {
 		top: 100vh;
 		left: 100vw;
