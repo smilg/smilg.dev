@@ -12,6 +12,9 @@ var degreeSkip;
 var circ;
 
 function setup() {
+	seed = random(0,100);
+	noiseSeed(seed);
+	document.getElementById("seed").innerHTML = seed;
 	canvasSetup();
 	var canvas = createCanvas(canvasDimensions[0], canvasDimensions[1]);
 	canvas.parent("canvasContainer");

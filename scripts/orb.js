@@ -1,17 +1,18 @@
+let canvasDimensions, halfDims, smallerDimension;
 
-var canvasDimensions;
-var halfDims;
-var smallerDimension;
+let degreeSkipNoiseScale = 0.005;
+let degreeSkipScale = 4;
+let noiseScale = .03;
+let frameNoiseScale = .02;
+let degreeSkip;
 
-var degreeSkipNoiseScale = 0.005;
-var degreeSkipScale = 4;
-var noiseScale = .03;
-var frameNoiseScale = .02;
-var degreeSkip;
-
-var circ;
+let circ;
+let seed;
 
 function setup() {
+	seed = random(0,100);
+	noiseSeed(seed);
+	document.getElementById("seed").innerHTML = seed;
 	canvasSetup();
 	var canvas = createCanvas(canvasDimensions[0], canvasDimensions[1]);
 	canvas.parent("canvasContainer");
