@@ -6,16 +6,6 @@
   --main-white: #EAE0CC;
 }
 
-@font-face {
-	font-family: 'Open Sans';
-	src: url('OpenSans-Regular.ttf');
-}
-
-@font-face {
-	font-family: 'Trispace';
-	src: url('Trispace-Regular.ttf');
-}
-
 body, html {
     background-color: var(--bg-color);
 }
@@ -107,4 +97,23 @@ ul ul ul {
 	height: 75%;
 	width: 75%;
 	z-index: -1;
+}
+
+.insta-post {
+	opacity : 0;
+	transition:opacity .25s, visibility .25s;
+	visibility: collapse;
+	display: block;
+	position: absolute;
+	z-index: 1;
+}
+
+.insta-link:hover ~ .insta-post {
+	opacity: 1;
+	visibility: visible;
+}
+
+.insta-post:hover {
+	opacity: 1;
+	visibility: visible;
 }

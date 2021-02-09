@@ -1,7 +1,1 @@
-<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 292">
-<path class="vert" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" d="M144,214.5V89"/>
-<path class="s" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" d="M144,215.5c2-95,144-92,142,3c-1,38-33,68-71,68 M73,143.5c-94,2-92,145,3,143c38-1,68-34,68-72"/>
-<path class="top" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" d="M8,6.5l278,169"/>
-<path class="box" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" d="M3,16.5c0-8,6-13,14-13 M3,16.5v256c0,8,6,14,14,14 h255c8,0,14-7,14-15v-254c0-8-6-14-14-14H17"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 292"  fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10"><path d="M144,214.5V89"/><path d="M144 215.5c2-95 144-92 142 3-1 38-33 68-71 68m-142-143c-94 2-92 145 3 143 38-1 68-34 68-72M8 6.5l278 169"/><path d="M3 16.5c0-8 6-13 14-13m-14 13v256c0 8 6 14 14 14h255c8 0 14-7 14-15v-254c0-8-6-14-14-14H17"/></svg>
