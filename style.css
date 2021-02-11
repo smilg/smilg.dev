@@ -101,6 +101,15 @@ ul ul ul {
 	z-index: -1;
 }
 
+.insta-link-icon {
+	display: inline-block;
+	position: relative;
+	width: 1.5rem;
+	top: .3em;
+	margin-right: .2em;
+	filter: invert(87%) sepia(17%) saturate(165%) hue-rotate(207deg) brightness(90%) contrast(90%);
+}
+
 .insta-post {
 	opacity : 0;
 	transition:opacity .25s, visibility .25s;
