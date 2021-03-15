@@ -105,6 +105,7 @@ ul ul ul {
 	display: inline-block;
 	position: relative;
 	width: 1.5rem;
+	height: auto;
 	top: .3em;
 	margin-right: .2em;
 	filter: invert(87%) sepia(17%) saturate(165%) hue-rotate(207deg) brightness(90%) contrast(90%);
