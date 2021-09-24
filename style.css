@@ -51,7 +51,7 @@ a:visited {
 
 ul {
 	font-family: 'Trispace', monospace;
-	font-size: 1.1rem;
+	font-size: 1.2rem;
 	padding-left: 1em;
 }
 ul ul {
@@ -60,6 +60,7 @@ ul ul {
 
 ul ul ul {
 	padding-left: 2em;
+    font-size: 1rem;
 }
 
 #content {
