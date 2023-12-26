@@ -3,7 +3,7 @@ title: "ESP-12E Fan Remote Retrofit"
 subtitle: ""
 description: "smart fan remote conversion using an esp-12e dev board."
 date: 2019-01-24T12:00:00Z
-draft: true
+draft: false
 external_url: "https://www.instagram.com/p/BtCRbmygEjS/"
 ---
 

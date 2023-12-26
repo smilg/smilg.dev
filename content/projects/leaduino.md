@@ -3,7 +3,7 @@ title: "Arduino vs. off-brand toxicity analysis"
 subtitle: ""
 description: "Do cheap Arduino clones have hidden costs?"
 date: 2022-05-11T12:00:00Z
-draft: true
+draft: false
 external_url: "https://www.overleaf.com/project/62599be977155bd52e4fdd95"
 ---
 

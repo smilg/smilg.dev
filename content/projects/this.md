@@ -3,7 +3,7 @@ title: "smilg.dev"
 subtitle: ""
 description: "you're looking at it. made from scratch by me! (not a web dev)"
 date: 2020-01-01T12:00:00Z
-draft: true
+draft: false
 external_url: "https://smilg.dev"
 ---
 

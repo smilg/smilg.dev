@@ -3,7 +3,7 @@ title: "3DDIE (wip)"
 subtitle: ""
 description: "3d digital interface, epic! a 3d capacitive sensing midi controller"
 date: 2022-12-19T12:00:00Z
-draft: true
+draft: false
 external_url: "https://github.com/smilg/3ddie"
 ---
 

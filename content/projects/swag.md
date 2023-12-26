@@ -3,7 +3,7 @@ title: "S.W.A.G."
 subtitle: ""
 description: "Super Wild Assault Game - a customizable platform fighter in Python"
 date: 2021-05-12T12:00:00Z
-draft: true
+draft: false
 external_url: "https://github.com/olincollege/super-wild-assault-game"
 ---
 

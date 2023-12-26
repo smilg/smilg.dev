@@ -3,7 +3,7 @@ title: "Dog Food Tracker"
 subtitle: ""
 description: "a device to track whether or not a pet has been fed already"
 date: 2019-08-11T12:00:00Z
-draft: true
+draft: false
 external_url: "https://www.instagram.com/p/B1CTAskgp_9/"
 ---
 

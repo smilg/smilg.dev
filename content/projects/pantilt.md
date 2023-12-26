@@ -3,7 +3,7 @@ title: "pan-tilt 3d scanner"
 subtitle: ""
 description: "a rudimentary 3D scanner using a pan/tilt mechanism"
 date: 2021-09-30T12:00:00Z
-draft: true
+draft: false
 external_url: "https://github.com/smilg/pantilt-scanner"
 ---
 

@@ -3,7 +3,7 @@ title: "diy assistive communication device"
 subtitle: ""
 description: "for people with limited motor function - featured at TEDxVienna!"
 date: 2015-10-22T12:00:00Z
-draft: true
+draft: false
 external_url: "https://youtu.be/LNkz7UhH6_w"
 ---
 

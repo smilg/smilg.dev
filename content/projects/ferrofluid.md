@@ -3,7 +3,7 @@ title: "ferrofluid display"
 subtitle: ""
 description: "an inexpensive display that uses electromagnets to move blobs of ferrofluid around"
 date: 2021-12-14T12:00:00Z
-draft: true
+draft: false
 external_url: "https://olincollege.github.io/pie-2021-03/Ferrofluid/"
 ---
 

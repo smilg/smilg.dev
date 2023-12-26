@@ -3,7 +3,7 @@ title: "nationwide eclipse ballooning project"
 subtitle: "high altitude ballooning during solar eclipses"
 description: "disposable film camera modification/automation for HAB payload"
 date: 2023-09-10T12:00:00Z
-draft: true
+draft: false
 external_url: ""
 ---
 

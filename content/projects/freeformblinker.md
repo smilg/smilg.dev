@@ -3,7 +3,7 @@ title: "Freeform Circuit: Astable Multivibrator"
 subtitle: ""
 description: "a simple first adventure in freeform circuits"
 date: 2021-03-09T12:30:00Z
-draft: true
+draft: false
 external_url: "https://www.instagram.com/p/CMODtj3Dd-G/"
 ---
 

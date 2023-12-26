@@ -3,7 +3,7 @@ title: "rp2040 development board"
 subtitle: ""
 description: "raspberry pi pico clone"
 date: 2022-10-04T12:00:00Z
-draft: true
+draft: false
 external_url: "https://github.com/smilg/engr3430-eclectronics/tree/main/MP3"
 ---
 

@@ -3,7 +3,7 @@ title: "Custom 8-channel DAC"
 subtitle: ""
 description: "compact interface for analog pressure regulators controlling soft-robotic arm"
 date: 2023-04-09T12:00:00Z
-draft: true
+draft: false
 external_url: ""
 ---
 

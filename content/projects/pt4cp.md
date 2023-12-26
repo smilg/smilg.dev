@@ -3,7 +3,7 @@ title: "Physical Therapy Glove for Cerebral Palsy"
 subtitle: ""
 description: "diy soft robotics for at-home physical therapy"
 date: 2022-07-15T12:00:00Z
-draft: true
+draft: false
 external_url: "https://web.archive.org/web/20230405190249/https://pages.olin.edu/jeff-dusek/physical-therapy-cerebral-palsy/"
 ---
 

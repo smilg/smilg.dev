@@ -3,7 +3,7 @@ title: "Custom RISC-V CPU"
 subtitle: ""
 description: "a \"from scratch\" CPU based on the rv32i instruction set"
 date: 2022-12-15T12:00:00Z
-draft: true
+draft: false
 external_url: "https://github.com/smilg/comparch-f22/tree/main/labs/03_rv32i_part2"
 ---
 

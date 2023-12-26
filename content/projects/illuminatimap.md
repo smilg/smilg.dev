@@ -3,7 +3,7 @@ title: "Illuminati Map"
 subtitle: ""
 description: "Wikipedia Data Visualization"
 date: 2021-04-09T12:00:00Z
-draft: true
+draft: false
 external_url: "https://github.com/olincollege/illuminatimap"
 ---
 
