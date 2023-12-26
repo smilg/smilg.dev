@@ -1,0 +1,18 @@
+<div class="flex-container">
+{{ range site.RegularPages }}
+    <div class="card project-card">
+        {{ $image := printf "images/projects/%s.jpg" .File.BaseFileName | resources.Get }}
+        <a href="{{ .RelPermalink }}"><img class="project-img" src="{{ $image.RelPermalink }}" width="auto" height="auto"></a>
+        <h3 class="project-title">
+            {{ lower .Title }}
+        </h3>
+        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+        {{ $dateHuman := .Date.Year }}
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+        <p class="project-info">
+            {{ lower .Description }}
+        </p>
+        <a class="project-button" role="button" href="{{ .RelPermalink }}">view more</a>
+    </div>
+{{ end }}
+</div>

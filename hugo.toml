@@ -1,0 +1,14 @@
+baseURL = 'https://smilg.dev/'
+languageCode = 'en-us'
+title = 'jacob smilg'
+theme = 'smilg.dev'
+disableHugoGeneratorInject = true
+enableInlineShortcodes = true
+disableKinds = ['sitemap', 'RSS', 'taxonomy']
+
+[params]
+author = 'Jacob Smilg'
+email = 'jacob@smilg.dev'
+instagram = 'makersmilg'
+github = 'smilg'
+description = "Jacob Smilg's Portfolio - Student at Olin College of Engineering pursuing a degree in Electrical Engineering"

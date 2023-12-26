@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{site.Params.description}}">
+
+{{- with resources.Get "svg/logo.svg" }}
+    <link rel="icon" href="{{ .RelPermalink }}">
+{{- end }}
+{{- with resources.Get "fonts/envoyer-regular.ttf" }}
+    <link rel="preload" href="{{ .RelPermalink }}" as="font" type="font/ttf" crossorigin>
+{{- end}}
+
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ partialCached "head/css.html" . }}

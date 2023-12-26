@@ -1,0 +1,11 @@
+description = 'A hugo theme for my portfolio.'
+license = 'MIT'
+licenselink = 'https://github.com/smilg/smilg.dev/LICENSE'
+name = 'smilg.dev'
+demosite = 'https://smilg.dev/'
+homepage = 'https://github.com/smilg/smilg.dev'
+tags = ['blog', 'portfolio']
+
+[author]
+homepage = 'https://smilg.dev/'
+name = 'Jacob Smilg'

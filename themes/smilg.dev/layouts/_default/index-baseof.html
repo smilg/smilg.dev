@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+    {{- block "intro" . }}{{- end }}
+    {{- partial "section-border.html" . -}}
+  <header>
+    {{ partial "header-home.html" . }}
+  </header>
+  <main>
+    <h2 id="projects" class="card title-card">projects</h2>
+    {{- partial "list.html" . -}}
+
+    {{- partial "section-border.html" . -}}
+
+    <h2 id="about" class="card title-card">about me</h2>
+    {{- partial "about.html" . -}}
+
+    {{- partial "section-border.html" . -}}
+  </main>
+  {{/*  <footer>
+    {{ partial "footer.html" . }}
+  </footer>  */}}
+</body>
+</html>

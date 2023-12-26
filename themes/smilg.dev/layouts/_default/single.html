@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="card article">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.Subtitle }}
+    <i class="subtitle">{{ . }}</i>
+{{- end}}
+</div>
+  
+<div class="card article">
+    
+  {{ .Content }}
+</div>
+  {{/*  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
+{{ end }}
