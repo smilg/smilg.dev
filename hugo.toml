@@ -1,14 +1,14 @@
 baseURL = 'https://smilg.dev/'
 languageCode = 'en-us'
-title = 'jacob smilg'
+title = 'milly smilg'
 theme = 'smilg.dev'
 disableHugoGeneratorInject = true
 enableInlineShortcodes = true
 disableKinds = ['sitemap', 'RSS', 'taxonomy']
 
 [params]
-author = 'Jacob Smilg'
-email = 'jacob@smilg.dev'
+author = 'Milly Smilg'
+email = 'milly@smilg.dev'
 instagram = 'makersmilg'
 github = 'smilg'
-description = "Jacob Smilg's Portfolio - Student at Olin College of Engineering pursuing a degree in Electrical Engineering"
+description = "Milly Smilg's Portfolio - Student at Olin College of Engineering pursuing a degree in Electrical Engineering"
